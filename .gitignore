@@ -1,0 +1,12 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore directories
+path/
+**/path/
+
+# Common IDE files
+.vscode/
+.idea/
+__pycache__/
+*.pyc
