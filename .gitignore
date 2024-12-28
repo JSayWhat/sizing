@@ -4,6 +4,7 @@
 # Ignore directories
 path/
 **/path/
+organized_schedules/
 
 # Common IDE files
 .vscode/
